@@ -1,0 +1,214 @@
+Script started on 2025-03-21 00:26:39-04:00
+]0;sgshimbe@engr-ras-207:~[sgshimbe@engr-ras-207 ~]$ pwd
+/mnt/ncsudrive/s/sgshimbe
+]0;sgshimbe@engr-ras-207:~[sgshimbe@engr-ras-207 ~]$ ls -[K-
+ls: cannot access '-': No such file or directory
+]0;sgshimbe@engr-ras-207:~[sgshimbe@engr-ras-207 ~]$ ls
+[0m[01;32mBasicUNIXGL.txt[0m
+]0;sgshimbe@engr-ras-207:~[sgshimbe@engr-ras-207 ~]$ mkdir My \[K[KE115
+]0;sgshimbe@engr-ras-207:~[sgshimbe@engr-ras-207 ~]$ ls
+[0m[01;32mBasicUNIXGL.txt[0m  [01;34mMyE115[0m
+]0;sgshimbe@engr-ras-207:~[sgshimbe@engr-ras-207 ~]$ cd My[KYE115
+bash: cd: MYE115: No such file or directory
+]0;sgshimbe@engr-ras-207:~[sgshimbe@engr-ras-207 ~]$ ls[K[Kcd MyE115
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ ls
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ ls
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ pwd
+/mnt/ncsudrive/s/sgshimbe/MyE115
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cp -r MyE115/copyOfDowl[Knloads
+cp: missing destination file operand after 'MyE115/copyOfDownloads'
+Try 'cp --help' for more information.
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cp -r MyE115/copyOfDownloads[C[C[C MyE115/copyOfDownloadsd MyE115/copyOfDownloadso MyE115/copyOfDownloadsw MyE115/copyOfDownloads[1P MyE115/copyOfDownloads[1P MyE115/copyOfDownloadso MyE115/copyOfDownloadsw MyE115/copyOfDownloadsn MyE115/copyOfDownloadsl MyE115/copyOfDownloadso MyE115/copyOfDownloadsa MyE115/copyOfDownloadsd MyE115/copyOfDownloadss MyE115/copyOfDownloads[C MyE115/copyOfDownloads
+cp: cannot stat 'downloads': No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cp -r downloads  MyE115/copyOfDownloads[11PMyE115/copyOfDownloadsdownloads  MyE115/copyOfDownloads0OfDownloads[1POfDownloads[C[1PfDownloads0fDownloads[C[C[C[C[C[C[C[C[C[C
+cp: cannot stat 'downloads': No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cp -r downloads Mye115[K[K[K[KE115/downloads[K[K[K[K[K[K[K[K[Kcopyof[K[K0fdownloads
+cp: cannot stat 'downloads': No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cd downloads
+bash: cd: downloads: No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ ls
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cd m[KMyE115
+bash: cd: MyE115: No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ ls
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ pwd
+/mnt/ncsudrive/s/sgshimbe/MyE115
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cd download
+bash: cd: download: No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cs[Kd downloads
+bash: cd: downloads: No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ cd Downloads
+bash: cd: Downloads: No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ pwd
+/mnt/ncsudrive/s/sgshimbe/MyE115
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ mkdir copy)f[K[K[Ku[Ky0fdirectory[K[K[K[K[K[K[K[Kownloads
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ ls
+[0m[01;34mcopy0fdownloads[0m
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ mv MyE115/copy0fdownloads MyE115ls[Kmv MyE115/copy0fdownloads MyE115/downloads copy[K[K[K[K[K[KsCopy
+mv: cannot stat 'MyE115/copy0fdownloads': No such file or directory
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ ls
+[0m[01;34mcopy0fdownloads[0m
+]0;sgshimbe@engr-ras-207:~/MyE115[sgshimbe@engr-ras-207 MyE115]$ exit
+Script started on 2025-03-21 01:10:19-04:00
+]0;sgshimbe@engr-ras-204:~[sgshimbe@engr-ras-204 ~]$ pwd
+/mnt/ncsudrive/s/sgshimbe
+]0;sgshimbe@engr-ras-204:~[sgshimbe@engr-ras-204 ~]$ ls ~/
+[0m[01;32mBasicUNIXGL.txt[0m  [01;34mMyE115[0m
+]0;sgshimbe@engr-ras-204:~[sgshimbe@engr-ras-204 ~]$ mkdir [K[K[K[K[K[Kls
+[0m[01;32mBasicUNIXGL.txt[0m  [01;34mMyE115[0m
+]0;sgshimbe@engr-ras-204:~[sgshimbe@engr-ras-204 ~]$ cd MyE115
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ pwd
+/mnt/ncsudrive/s/sgshimbe/MyE115
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ mkdir downloads[K[K[K[K[K[K[K[K[K~/ downloads[C[1Pdownloads
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ cp -r downloads~ downloads/ downloads[C[1@ [C[C[C[C[C[C[1Pdownloads[C[C[C[C[C[C[C[C[C ./Cop\\[K[K[K[K[Kcopyofdownloads
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ ls
+[0m[01;34mcopy0fdownloads[0m  [01;34mcopyofdownloads[0m
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ mvlsmv[K[Kclear
+[3J[H[2J]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ clear[Kclear[3Plscp -r ~/downloads ./copyofdownloads[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kclear[Kmv copy [Kofdownloads downloadsCopy
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ ls
+[0m[01;34mcopy0fdownloads[0m  [01;34mdownloadsCopy[0m
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ clear
+[3J[H[2J]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ rn[K, [K[K,[Km -rf downloadsCopy
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ ls
+[0m[01;34mcopy0fdownloads[0m
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ lsrm -rf downloadsCopycdownloadsCopyodownloadsCopypdownloadsCopyydownloadsCopyodownloadsCopyfdownloadsCopy[1PdownloadsCopy[1PdownloadsCopy0downloadsCopyfdownloadsCopy[CdownloadsCopyodownloadsCopywdownloadsCopyndownloadsCopyldownloadsCopyodownloadsCopyadownloadsCopy[CdownloadsCopysdownloadsCopy[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ ls
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ clear
+[3J[H[2J]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ man rn
+No manual entry for rn
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ ,am -rm
+bash: ,am: command not found
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ ,[Kman -rm
+What manual page do you want?
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ 
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ man -rm,am[C[C[C[Cman[C[C[C[C[1P-rm -rm[C[C[1Prm
+[?1049h[22;0;0t[?1h=RM(1)                            User Commands                           RM(1)[m
+[m
+[1mNAME[0m[m
+       rm - remove files or directories[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mrm [22m[[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the  GNU version of [1mrm[22m.  [1mrm [22mremoves each[m
+       specified file.  By default, it does not remove directories.[m
+[m
+       If the [4m-I[24m or [4m--interactive=once[24m option is given,  and  there  are  more[m
+       than  three  files  or  the  [4m-r[24m,  [4m-R[24m, or [4m--recursive[24m are given, then [1mrm[0m[m
+       prompts the user for whether to proceed with the entire operation.   If[m
+       the response is not affirmative, the entire command is aborted.[m
+[m
+       Otherwise,  if  a file is unwritable, standard input is a terminal, and[m
+       the [4m-f[24m or [4m--force[24m  option  is  not  given,  or  the  [4m-i[24m  or  [4m--interac‐[0m[m
+       [4mtive=always[24m  option is given, [1mrm [22mprompts the user for whether to remove[m
+       the file.  If the response is not affirmative, the file is skipped.[m
+[m
+[1mOPTIONS[0m[m
+[7m Manual page rm(1) line 1 (press h for help or q to quit)[27m[K[K[7m Manual page rm(1) line 1 (press h for help or q to quit)[27m[K[K[7m Manual page rm(1) line 1 (press h for help or q to quit)[27m[K[K       Remove (unlink) the FILE(s).[m
+[7m Manual page rm(1) line 2 (press h for help or q to quit)[27m[K[K[7m Manual page rm(1) line 2 (press h for help or q to quit)[27m[K[K...skipping...
+[m
+[1mNAME[0m[m
+       rm - remove files or directories[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mrm [22m[[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the  GNU version of [1mrm[22m.  [1mrm [22mremoves each[m
+       specified file.  By default, it does not remove directories.[m
+[m
+       If the [4m-I[24m or [4m--interactive=once[24m option is given,  and  there  are  more[m
+       than  three  files  or  the  [4m-r[24m,  [4m-R[24m, or [4m--recursive[24m are given, then [1mrm[0m[m
+       prompts the user for whether to proceed with the entire operation.   If[m
+       the response is not affirmative, the entire command is aborted.[m
+[m
+       Otherwise,  if  a file is unwritable, standard input is a terminal, and[m
+       the [4m-f[24m or [4m--force[24m  option  is  not  given,  or  the  [4m-i[24m  or  [4m--interac‐[0m[m
+       [4mtive=always[24m  option is given, [1mrm [22mprompts the user for whether to remove[m
+       the file.  If the response is not affirmative, the file is skipped.[m
+[m
+[1mOPTIONS[0m[m
+       Remove (unlink) the FILE(s).[m
+[7m Manual page rm(1) line 2 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page rm(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-f[22m, [1m--force[0m[m
+[7m Manual page rm(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              ignore nonexistent files and arguments, never prompt[m
+[7m Manual page rm(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-i     [22mprompt before every removal[m
+[7m Manual page rm(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-I     [22mprompt once before removing  more  than  three  files,  or  when[m
+[7m Manual page rm(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              removing recursively; less intrusive than [1m-i[22m, while still giving[m
+[7m Manual page rm(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              protection against most mistakes[m
+[7m Manual page rm(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--interactive[22m[=[4mWHEN[24m][m
+[7m Manual page rm(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              prompt according to WHEN: never,  once  ([1m-I[22m),  or  always  ([1m-i[22m);[m
+[7m Manual page rm(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              without WHEN, prompt always[m
+[7m Manual page rm(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--one-file-system[0m[m
+[7m Manual page rm(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              when  removing  a hierarchy recursively, skip any directory that[m
+[7m Manual page rm(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              is on a file system different from  that  of  the  corresponding[m
+[7m Manual page rm(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              command line argument[m
+[7m Manual page rm(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--no-preserve-root[0m[m
+[7m Manual page rm(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              do not treat '/' specially[m
+[7m Manual page rm(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--preserve-root[22m[=[4mall[24m][m
+[7m Manual page rm(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              do not remove '/' (default); with 'all', reject any command line[m
+[7m Manual page rm(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              argument on a separate device from its parent[m
+[7m Manual page rm(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-r[22m, [1m-R[22m, [1m--recursive[0m[m
+[7m Manual page rm(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              remove directories and their contents recursively[m
+[7m Manual page rm(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-d[22m, [1m--dir[0m[m
+[7m Manual page rm(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              remove empty directories[m
+[7m Manual page rm(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-v[22m, [1m--verbose[0m[m
+[7m Manual page rm(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              explain what is being done[m
+[7m Manual page rm(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--help [22mdisplay this help and exit[m
+[7m Manual page rm(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--version[0m[m
+[7m Manual page rm(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              output version information and exit[m
+[7m Manual page rm(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       By default, rm does not remove directories.  Use the [1m--recursive [22m([1m-r [22mor[m
+[7m Manual page rm(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-R[22m)  option to remove each listed directory, too, along with all of its[m
+[7m Manual page rm(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       contents.[m
+[7m Manual page rm(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       To remove a file whose name starts with a '-', for example '-foo',  use[m
+[7m Manual page rm(1) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       one of these commands:[m
+[7m Manual page rm(1) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rm [1m-- -foo[0m[m
+[7m Manual page rm(1) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rm ./-foo[m
+[7m Manual page rm(1) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Note  that  if  you  use  rm  to remove a file, it might be possible to[m
+[7m Manual page rm(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       recover some of its contents, given sufficient expertise  and/or  time.[m
+[7m Manual page rm(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       For  greater  assurance that the contents are truly unrecoverable, con‐[m
+[7m Manual page rm(1) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       sider using shred.[m
+[7m Manual page rm(1) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mAUTHOR[0m[m
+[7m Manual page rm(1) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Written by Paul Rubin, David MacKenzie, Richard M.  Stallman,  and  Jim[m
+[7m Manual page rm(1) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Meyering.[m
+[7m Manual page rm(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mREPORTING BUGS[0m[m
+[7m Manual page rm(1) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>[m
+[7m Manual page rm(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Report rm translation bugs to <https://translationproject.org/team/>[m
+[7m Manual page rm(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOPYRIGHT[0m[m
+[7m Manual page rm(1) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright  ©  2018  Free Software Foundation, Inc.  License GPLv3+: GNU[m
+[7m Manual page rm(1) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GPL version 3 or later <https://gnu.org/licenses/gpl.html>.[m
+[7m Manual page rm(1) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is free software: you are free  to  change  and  redistribute  it.[m
+[7m Manual page rm(1) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page rm(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE ALSO[0m[m
+[7m Manual page rm(1) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       unlink(1), unlink(2), chattr(1), shred(1)[m
+[7m Manual page rm(1) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full documentation at: <https://www.gnu.org/software/coreutils/rm>[m
+[7m Manual page rm(1) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) rm invocation'[m
+[7m Manual page rm(1) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rm(1) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.30                 July 2018                             RM(1)[m
+[7m Manual page rm(1) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[K[7m Manual page rm(1) line 79/101 (END) (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ 
+]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ clear
+[3J[H[2J]0;sgshimbe@engr-ras-204:~/MyE115[sgshimbe@engr-ras-204 MyE115]$ exit
+exit
+
+Script done on 2025-03-21 01:25:28-04:00
